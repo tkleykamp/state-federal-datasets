@@ -7,4 +7,4 @@ In the context of Open Data, States may be reluctant to publish datasets that ar
 programs or with Federal Funds. There may be Federal rules, laws, guidance, etc that may dictate what States
 can do with this data. Further, this may raise issues or questions for operators of Open Data Repositories such as: Can I or should publish data on a State Repository that is already published by a Federal Agency.
 
-The accompanying .csv file contains datasets that I have identified thus far. Contributions via pull request would be gladly accepted.
+The accompanying .csv file (state fed data.csv) contains datasets that I have identified thus far. Contributions via pull request would be gladly accepted.
