@@ -13,6 +13,6 @@ https://github.com/sunlightpolicy/State-Open-Data-Census/issues/1#issuecomment-7
 The accompanying .csv file (state fed data.csv) contains datasets that I have identified thus far. Contributions via pull request would be gladly accepted.
 
 ## Want to Contribute?
- Please do! If you have a github account, and know how to pull requests work, they will be gladly accepted. Otherwise, feel free to submit additions as an issue.
+ Please do! If you have a github account, and know how pull requests work, they will be gladly accepted. Otherwise, feel free to submit additions as an issue.
  
  Don't have a github account, or just prefer to do it the the old fashioned way? Download the "state fed data.csv" file, make your addtions, and email them to me: tyler.kleykamp[at]ct.gov 
