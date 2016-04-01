@@ -7,5 +7,8 @@ CDC,National Vital Statistics System,http://www.cdc.gov/nchs/nvss.htm,Statistics
 CDC,HIV/AIDS Surveilleance Systems,http://www.cdc.gov/hiv/library/reports/surveillance/,Health,residents diagnosed with HIV/AIDS
 CDC,School Vaccination Coverage,http://www.cdc.gov/vaccines/imz-managers/coverage/schoolvaxview/index.html,Health,"state reports of the estimated number of children in childcare, kindergarten, and middle school who have received vaccinations recommended or required by their state"
 CDC,National Healthcare Safety Network,http://www.cdc.gov/nhsn/,Health,healthcare associated infection tracking system
-EPA,Safe Drinking Water Information System,https://www3.epa.gov/enviro/facts/sdwis/search.html,Environment," contains information about public water systems and their violations of EPA's drinking water regulations as reported to EPA by the states"
+EPA,Safe Drinking Water Information System,https://www3.epa.gov/enviro/facts/sdwis/search.html,Environment, contains information about public water systems and their violations of EPA's drinking water regulations as reported to EPA by the states
 CDC,Foodborne Diseases Active Surveillance Network (FoodNet) ,http://www.cdc.gov/foodnet/index.html,Health,"It is a sentinel1 surveillance system that collects information from sites in 10 states—covering 15% of the US population, "
+DOL,Quartlerly Census of Employment and Wages,http://www.bls.gov/cew/,Statistics,"The Quarterly Census of Employment and Wages (QCEW) program publishes a quarterly count of employment and wages reported by employers covering 98 percent of U.S. jobs, available at the county, MSA, state and national levels by industry"
+DOL,Local Area Unemployment Statistics ,http://www.bls.gov/lau/,Statistics," produces monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities, by place of residence"
+,,,,
