@@ -1,6 +1,6 @@
 # state-federal-datasets
 
-This is a list of various datasets that are collected by States initially and then provided to federal agencies.
+This is a list of various datasets that are collected by states initially and then provided to federal agencies.
 
 I'm curious to see how many federal datasets originate at the state level and then are provided to federal agencies.
 In the context of Open Data, states may be reluctant to publish datasets that are collected in accordance with federal
