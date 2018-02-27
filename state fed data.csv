@@ -86,3 +86,10 @@ USDA,National Animal Health Reporting System,https://www.aphis.usda.gov/aphis/ou
 DOI/FWS,Hunting License Data,https://wsfrprograms.fws.gov/Subpages/LicenseInfo/Hunting.htm,Statistics,"Hunting license information is collected annually from state, territory and insular areas license certifications"
 DOI/FWS,Fishing License Data,https://wsfrprograms.fws.gov/Subpages/LicenseInfo/Fishing.htm,Statistics,"Fishing license information is collected annually from state, territory and insular areas license certifications."
 DOT/MTHSA,National Emergency Medical Services Information System (NEMSIS),https://nemsis.org/,Health,"The National Emergency Medical Services Information System (NEMSIS) is the national database that is used to store EMS data from the U.S. States and Territories. NEMSIS is a universal standard for how patient care information resulting from an emergency 9-1-1 call for assistance is collected.   NEMSIS is a collaborative system to improve patient care through the standardization, aggregation, and utilization of point of care EMS data at a local, state and national level. NEMSIS is a product of NHTSA’s Office of EMS and in collaboration with the University of Utah is the host of the Technical Assistance Center (TAC)."
+HHS/CMS,Transformed Medicaid Statistical Information System (T-MSIS),https://www.medicaid.gov/medicaid/data-and-systems/macbis/tmsis/index.html,Health,"The T-MSIS data set contains:
+
+Enhanced information about beneficiary eligibility
+Beneficiary and provider enrollment
+Service utilization
+Claims and managed care data
+Expenditure data for Medicaid and CHIP."
