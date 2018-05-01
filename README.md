@@ -10,9 +10,9 @@ can do with this data. Further, this may raise issues or questions for operators
 Categories are based on the G8 National Action Plan definition of "high value datasets" used in the U.S. Open Data Institute State Data Census:
 https://github.com/sunlightpolicy/State-Open-Data-Census/issues/1#issuecomment-73299844
 
-The accompanying .csv file **state fed data.csv** contains datasets that I have identified thus far. Contributions via pull request would be gladly accepted.
+The accompanying .csv file [**state fed data.csv**](/state fed data.csv) contains datasets that I have identified thus far. Contributions via pull request would be gladly accepted.
 
-There is an additional csv file **federal funding programs - for reference** which is derived from the Catalog of Federal Domestic Assistance, filtered for State programs, which can be used to assist in finding datasets. The assumption here is that there would likely be some level of data provided to the funding agency.
+There is an additional csv file [**federal funding programs - for reference**](/federal funding programs - for reference.csv) which is derived from the Catalog of Federal Domestic Assistance, filtered for State programs, which can be used to assist in finding datasets. The assumption here is that there would likely be some level of data provided to the funding agency.
 
 
 ## Want to Contribute?
