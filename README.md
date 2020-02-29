@@ -18,4 +18,4 @@ There is an additional csv file [**federal funding programs - for reference**](/
 ## Want to Contribute?
  Please do! If you have a github account, and know how pull requests work, they will be gladly accepted. Otherwise, feel free to submit additions as an issue.
  
- Don't have a github account, or just prefer to do it the old fashioned way? Download the "state fed data.csv" file, make your addtions, and email them to me: tyler.kleykamp[at]ct.gov 
+ Don't have a github account, or just prefer to do it the old fashioned way? Download the "state fed data.csv" file, make your addtions, and email them to me: tyler.kleykamp[at]georgetown.edu 
